@@ -53,7 +53,7 @@ show(l);
 
 The output should be 
 
-<img src="stuff/f3.png" width="300px">
+<img src="stuff/f3.png" width="500px">
 
 *  ```findRank```
 

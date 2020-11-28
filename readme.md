@@ -160,8 +160,4 @@ Now the homework is finished, but in the last moments someone adds some extra li
 
 Enjoy python! 
 
-
-# main File
-You must not alter the **main.cpp** file at all. Just write all your codes in the **aphw4.cpp** and **aphw4.h**. Good luck!
-
 <img src="stuff/f25.jpg" width="600" />
